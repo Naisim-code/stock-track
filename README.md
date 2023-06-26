@@ -1,4 +1,4 @@
-# project2
+# project2-sales-planning
 In this project, I simulate a sales and operations planning using the zero-stock level strategy. 
 '''In this project, you are going to simulate a sales and operations planning using the zero-stock level strategy. 
 
